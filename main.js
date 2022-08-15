@@ -12,7 +12,7 @@ to_number = 0;
 
 function preload()
 {
-  apple = loadImage("WAtrermelon.png");
+  apple = loadImage("Watermelon.png");
 }
 
 var SpeechRecognition = window.webkitSpeechRecognition;
